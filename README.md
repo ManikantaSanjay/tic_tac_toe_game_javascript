@@ -23,4 +23,9 @@ Ps: I lost :pensive:
 
 https://user-images.githubusercontent.com/53619729/161684803-110cb504-8577-4343-b349-89711cd317b6.mp4
 
+## Wanna have a go at it. Beating a virtual opponent : :stuck_out_tongue_winking_eye:
+
+Click here 👇
+
+https://sanjays-tic-tac-toe-fun.netlify.app/
 ## Add a star 🌟 to the repo if u like what your watching.😃 Thank You ✌️
