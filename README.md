@@ -1,36 +1,42 @@
 # Tic Tac Toe Game
-## Description
-This is a simple Tic Tac Toe game created as part of my course assignment on Udemy.
-## 💻 Built With
-HTML + CSS + JAVASCRIPT 
-## 🧐 Features
-* We play a game against a bot and there is a feature for reset and play again.
-* To make a move, the player will use the mouse single click to mark a space. In this version, there is no provision to undo the move. As soon as the move is done, the game proceeds to the bot's move.
-* When the game ends, it displays one of the following three outcomes:
 
-I. You Win
+## Contents
+The repository includes the following files:
 
-II. You Lose
+- `index.html`: The HTML file that defines the structure of the web page and contains the game interface.
+- `style.css`: The CSS file that defines the styles and layout of the game interface.
+- `script.js`: The JavaScript file that implements the game logic and handles user interactions.
 
-III. Tie Game
+## Usage
+To play the game, follow these steps:
 
-## Demo
-Watch the demo of the game played between human and the bot. 
+1. Clone or download the repository to your local machine.
+2. Open the `index.html` file in a web browser.
+3. The game interface will be displayed, showing a 3x3 grid representing the game board.
+4. Players take turns clicking on an empty square to make their move.
+5. The game will check for a winning combination or a draw and display the result accordingly.
+6. Play subsequent rounds by refreshing the page.
+7. Enjoy playing the Tic Tac Toe game!
 
-Ps: I lost :pensive:
+## Customization
+You can customize the game by modifying the JavaScript code in the `script.js` file. For example, you can change the game board size, add additional players, or modify the winning conditions to suit your preferences.
+
+## Requirements
+The game requires a modern web browser with JavaScript support to run correctly.
+
+## Contributions
+Contributions to this repository are welcome. If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
+
+
+
+
+## Preview
+
 
 
 
 https://user-images.githubusercontent.com/53619729/161684803-110cb504-8577-4343-b349-89711cd317b6.mp4
 
-## Wanna have a go at it. Beating a virtual opponent : :stuck_out_tongue_winking_eye
-
-Click here 👇
+## Live Demo
 
 https://sanjays-tic-tac-toe-fun.netlify.app/
-
-## 🍰 Contributing
-Please contribute using GitHub Flow . Create a branch, add commits, and open a pull request.
-
-## 🙏 Support
-## Add a star 🌟 to the repo if u like what your watching.😃 Thank You ✌️
